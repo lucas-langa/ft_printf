@@ -1,2 +1,2 @@
 # ft_printf
-recodig unix command printf
+re-coding unix command printf
